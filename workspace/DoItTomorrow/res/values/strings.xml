@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Do It Tomorrow</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_new_todo">New To Do Item</string>
+    <string name="button_create_todo_item_text">Create</string>
+    <string name="edit_todo_content_hint">Enter to do content</string>
+    <string name="spinner_priority_prompt">Priority</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="action_new_todo_title">New To Do</string>
+    <string name="action_new_todo_title_cond">New To Do</string>
+    <string name="checkbox_completed_text">Completed</string>
+    <string name="action_clear_todos_title">Clear All To Do Items</string>
+    <string name="action_clear_todos_title_cond">Clear To Dos</string>
+    
+</resources>
